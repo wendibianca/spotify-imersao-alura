@@ -33,5 +33,5 @@ Com o tempo e o aprendizado ao longo dos meus estudos, pretendo evoluir ainda ma
 
 ## Visualizar o Projeto
 
-Você pode visualizar o projeto [aqui](https://wendibianca.github.io/spotify-imersao-alura/]).
+Você pode visualizar o projeto [aqui](https://wendibianca.github.io/spotify-imersao-alura/).
 
